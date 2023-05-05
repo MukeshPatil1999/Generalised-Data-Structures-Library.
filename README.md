@@ -5,7 +5,7 @@ This project is considered as a library which contains generic implementations o
 
 • Technology : C++ Programming
 
-• We provide the readymade implementations of all fundamental operations as well as advanced operations on linear, non linear data strutters in an object oriented way. 
+• We provide the readymade implementations of all fundamental operations as well as advanced operations on linear, non linear data structures in an object oriented way. 
 
 • We provide the generic way of implementation so we can use the functionality for any type of data types. 
 
